@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Bold.ttf",
+      "sha1": "ff61a8eb119864c0800f424fa3223aa815426523"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Regular.ttf",
+      "sha1": "f2060ab5a5d6140c103bf47616f882ae62539cf2"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Semibold.ttf",
+      "sha1": "543ab6e5c840d17d63bfc8eb4233c05a049b683e"
+    },
+    {
+      "path": "assets/fonts/SFProDisplay-Bold.ttf",
+      "sha1": "8c67a84fce342cf54ef01e9b30b46f75048aefd3"
+    },
+    {
+      "path": "assets/fonts/SFProDisplay-Light.ttf",
+      "sha1": "517af7eebd05cdafe07790446d6ba96fddfe09de"
+    },
+    {
+      "path": "assets/fonts/SFProDisplay-Regular.ttf",
+      "sha1": "00e029c09a98fd014a7a1013e7efe357b40da352"
+    },
+    {
+      "path": "assets/fonts/SFProDisplay-SemiBold.ttf",
+      "sha1": "9dd7c8e0a103ff7d074b046272a87e4a0565e6b2"
+    },
+    {
+      "path": "assets/fonts/SFProDisplay-Thin.ttf",
+      "sha1": "f47dbd2952ef12f55e4e6f7345862698628231b2"
+    }
+  ]
+}
